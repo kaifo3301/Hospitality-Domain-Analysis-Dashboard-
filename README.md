@@ -98,5 +98,5 @@ Weekday vs. Weekend Performance
 ## 👨‍💻 connect with me
 Ali Arsalan
 📌 Data Analyst | Power BI | SQL |           Excel | Python  
-🔗 [LinkedIn](https://www.linkedin.com/in/ali-arsalan-963b89346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub]()
+🔗 [LinkedIn](https://www.linkedin.com/in/ali-arsalan-963b89346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/kaifo3301/Hospitality-Domain-Analysis-Dashboard-/tree/main)
 
