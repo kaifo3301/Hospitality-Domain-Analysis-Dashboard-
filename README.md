@@ -18,10 +18,10 @@ A Power BI dashboard analyzing revenue performance in the hospitality industry. 
 
 
 ## 📂 Dataset
-fact booking:
+fact booking :
 - https://github.com/kaifo3301/Hospitality-Domain-Analysis-Dashboard-/blob/main/fact_bookings.csv
 
-fact aggregating booking:
+fact aggregating booking :
 - https://github.com/kaifo3301/Hospitality-Domain-Analysis-Dashboard-/blob/main/fact_aggregated_bookings.csv
 
 dim rooms :
@@ -29,6 +29,10 @@ dim rooms :
 
 dim hotels :
 - https://github.com/kaifo3301/Hospitality-Domain-Analysis-Dashboard-/blob/main/dim_hotels.csv
+
+dim date :
+https://github.com/kaifo3301/Hospitality-Domain-Analysis-Dashboard-/blob/main/dim_date.csv
+
 
 ## 🔑 Key Insights  
 
