@@ -64,6 +64,7 @@ Weekday vs. Weekend Performance
 
 <img width="1329" height="622" alt="1756371597819876175410485088485" src="https://github.com/user-attachments/assets/3160cbbb-1ccd-46ae-b66b-59159c42ffd9" />
 
+<img width="1327" height="611" alt="17563716677977860949872120170553" src="https://github.com/user-attachments/assets/362b94d9-03c2-43b2-a19a-451ab6c42e8e" />
 
 
 ## 🛠️ Tools & Technologies
