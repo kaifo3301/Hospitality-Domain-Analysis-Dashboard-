@@ -98,5 +98,5 @@ Weekday vs. Weekend Performance
 ## 👨‍💻 connect with me
 Ali Arsalan
 📌 Data Analyst | Power BI | SQL |           Excel | Python  
-🔗 [LinkedIn](#) | [GitHub] 
+🔗 [LinkedIn](#) | [GitHub](#)
 
