@@ -19,6 +19,7 @@ A Power BI dashboard analyzing revenue performance in the hospitality industry. 
 
 ## 📂 Dataset
 
+https://github.com/kaifo3301/Hospitality-Domain-Analysis-Dashboard-/blob/main/fact_bookings.csv
 
 
 
