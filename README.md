@@ -60,6 +60,7 @@ Weekday vs. Weekend Performance
 ## 📷 Dashboard Preview
 <img width="943" height="553" alt="175637136254489650482498439725" src="https://github.com/user-attachments/assets/7fbc8764-0b63-43ea-9381-5fdaf16966bb" />
 
+<img width="1317" height="606" alt="17563715204975280112385586654268" src="https://github.com/user-attachments/assets/7f079e59-1151-4de1-814b-5c8374b8e38d" />
 
 
 
