@@ -27,8 +27,8 @@ fact aggregating booking:
 dim rooms :
 - https://github.com/kaifo3301/Hospitality-Domain-Analysis-Dashboard-/blob/main/dim_rooms.csv
 
-
-
+dim hotels :
+- https://github.com/kaifo3301/Hospitality-Domain-Analysis-Dashboard-/blob/main/dim_hotels.csv
 
 ## 🔑 Key Insights  
 
